@@ -1,9 +1,9 @@
 Devslop
 
-Currently learning:
+## Currently learning:
 * Lua 
 
-Home Server Update:
+## Home Server Update:
 * Immich 
 * NextCloud 
 
